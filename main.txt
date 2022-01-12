@@ -1,6 +1,10 @@
 developcommit 
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature1commit
 =======
 feature2commit
 >>>>>>> feature_2
+=======
+feature3commit
+>>>>>>> feature_3
